@@ -1,5 +1,27 @@
+/*
+style.css
+----------
+
+Par Florentino
+*/
+
+body
+{
+	text-align: left;
+	margin: 40px auto;
+	max-width:  650px;
+	line-height:1.6;
+	font-size: 18px;
+	padding: 0px; 
+
+}
+
 p
 {
-	color: blue;
-	font-weight: bold;
+	color: black;
+}
+
+em
+{
+	color: black;
 }
